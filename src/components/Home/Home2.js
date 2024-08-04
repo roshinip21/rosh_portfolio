@@ -1,11 +1,6 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
-import beachimg from "../../Assets/IMG_3122.JPG";
-//import laptopImg from "../../Assets/about.png";
-//import sf from "../../Assets/Sfpic.jpg";
 import beach from "../../Assets/IMG_3122.JPG";
-import la from "../../Assets/losangpic.jpg";
-import Tilt from "react-parallax-tilt";
 import { ImPointRight } from "react-icons/im";
 import {
   AiFillGithub,

@@ -2,7 +2,6 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
-import covid from "../../Assets/Projects/Covid.png";
 import covid19 from "../../Assets/Projects/covid-19.jpg";
 import spotify from "../../Assets/Projects/Spotify.png";
 import cancer from "../../Assets/Projects/cancer.jpg";
@@ -13,7 +12,7 @@ import portfolio from "../../Assets/Projects/portfolio.png";
 import retail from "../../Assets/Projects/retail.jpg";
 import uber from "../../Assets/Projects/uber.jpg";
 import insurance from "../../Assets/Projects/insurance.jpg";
-import leaf from "../../Assets/Projects/aws.jpg";
+
 
 
 function Projects() {

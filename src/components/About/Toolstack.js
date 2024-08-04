@@ -1,8 +1,8 @@
 import React from "react";
 import { Col, Row } from "react-bootstrap";
 import { People, EmojiObjects, Handshake } from '@mui/icons-material';
-import { MdSearch, MdForum } from 'react-icons/md';
-import { RiMindMapLine, RiPuzzleLine, Mdtimeline, RiBrainFill } from "react-icons/ri";
+import { MdSearch } from 'react-icons/md';
+import { RiBrainFill } from "react-icons/ri";
 
 const iconStyle = { fontSize: "2rem", marginBottom: "0.3rem" };
 const labelStyle = { fontSize: "1rem", textAlign: "center" };

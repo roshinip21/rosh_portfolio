@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/roshinip21.github.io/static/css/main.d8bdde80.css",
+    "main.js": "/roshinip21.github.io/static/js/main.c71193c4.js",
+    "static/js/453.ace21015.chunk.js": "/roshinip21.github.io/static/js/453.ace21015.chunk.js",
+    "static/media/IMG_3122.JPG": "/roshinip21.github.io/static/media/IMG_3122.a5751dd9d49f8c4b42cb.JPG",
+    "static/media/Sfpic.jpg": "/roshinip21.github.io/static/media/Sfpic.c754b1282645820ecd72.jpg",
+    "static/media/portfolio.png": "/roshinip21.github.io/static/media/portfolio.0437bdcef97e53eb55e6.png",
+    "static/media/losangpic.jpg": "/roshinip21.github.io/static/media/losangpic.c294ee5db213576be904.jpg",
+    "static/media/Covid.png": "/roshinip21.github.io/static/media/Covid.3e1b90887a342b471323.png",
+    "static/media/snowflake.png": "/roshinip21.github.io/static/media/snowflake.72137ba1f03a9b1c267f.png",
+    "static/media/home-main.svg": "/roshinip21.github.io/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/Spotify.png": "/roshinip21.github.io/static/media/Spotify.4cfb36be7bab13c6c7ea.png",
+    "static/media/retail.jpg": "/roshinip21.github.io/static/media/retail.5972cb4b0d8db1f04adb.jpg",
+    "static/media/logo.png": "/roshinip21.github.io/static/media/logo.4c2ed51e5f890354bd3b.png",
+    "static/media/linkedin.jpg": "/roshinip21.github.io/static/media/linkedin.174625b7e4709bd652f8.jpg",
+    "static/media/uber.jpg": "/roshinip21.github.io/static/media/uber.44f46a33d72557185068.jpg",
+    "static/media/aws.jpg": "/roshinip21.github.io/static/media/aws.e7d5c870c6c53cefab80.jpg",
+    "static/media/home-bg.jpg": "/roshinip21.github.io/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/cancer.jpg": "/roshinip21.github.io/static/media/cancer.71441cd558b183e407ce.jpg",
+    "static/media/insurance.jpg": "/roshinip21.github.io/static/media/insurance.b1e774ad8dc680edb497.jpg",
+    "static/media/pre.svg": "/roshinip21.github.io/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/roshinip21.github.io/index.html",
+    "main.d8bdde80.css.map": "/roshinip21.github.io/static/css/main.d8bdde80.css.map",
+    "main.c71193c4.js.map": "/roshinip21.github.io/static/js/main.c71193c4.js.map",
+    "453.ace21015.chunk.js.map": "/roshinip21.github.io/static/js/453.ace21015.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d8bdde80.css",
+    "static/js/main.c71193c4.js"
+  ]
+}

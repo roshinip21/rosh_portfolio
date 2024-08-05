@@ -4,7 +4,6 @@ import beach from "../../Assets/IMG_3122.JPG";
 import { ImPointRight } from "react-icons/im";
 import {
   AiFillGithub,
-  AiOutlineTwitter,
   AiFillInstagram,
 } from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";

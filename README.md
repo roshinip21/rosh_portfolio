@@ -1,9 +1,9 @@
 <h2 align="center">
   Roshini's Portfolio Website<br/>
-  <a href="https://rosh-portfolio.vercel.app/" target="_blank">roshini-portfolio.vercel.app</a>
-</h2>
+  <a href="https://rosh-portfolio.vercel.app/" target="_blank">
+  rosh-portfolio.vercel.app</a> </h2>
 <div align="center">
-  <img alt="Demo" src="./src/assets/Projects/portfolio.png" />
+  <img alt="Demo" src="src/Assets/Projects/portfolio.png" />
 </div>
 
 <br/>
@@ -13,25 +13,24 @@
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) &nbsp;
 [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) &nbsp;
 [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) &nbsp;
-![GitHub Repo stars](https://img.shields.io/github/stars/roshinip21/Portfolio?color=red&logo=github&style=for-the-badge) &nbsp;
-![GitHub forks](https://img.shields.io/github/forks/roshinip21/Portfolio?color=red&logo=github&style=for-the-badge)
+![GitHub Repo stars](https://img.shields.io/github/stars/roshinip21/rosh_portfolio?color=red&logo=github&style=for-the-badge) &nbsp;
+![GitHub forks](https://img.shields.io/github/forks/roshinip21/rosh_portfolio?color=red&logo=github&style=for-the-badge)
 
 </center>
 
 <h3 align="center">
     🔹
-    <a href="[https://github.com/roshinip21/Portfolio/issues](https://github.com/roshinip21/rosh_portfolio/issues)">Report Bug</a> &nbsp; &nbsp;
+    <a href="https://github.com/roshinip21/rosh_portfolio/issues">Report Bug</a> &nbsp; &nbsp;
     🔹
     <a href="https://github.com/roshinip21/rosh_portfolio/issues">Request Feature</a>
 </h3>
 
-## TL;DR
 
 You can fork this repo to modify and make changes of your own. Please give credit on [roshinip21]((https://github.com/roshinip21/rosh_portfolio)). Thank You!
 
-## Built With
+## Built with
 
-My personal portfolio <a href="https://rosh-portfolio.vercel.app/" target="_blank">roshini-portfolio.vercel.app</a> which features some of my github projects as well as my resume and technical skills.<br/>
+My personal portfolio <a href="https://rosh-portfolio.vercel.app/" target="_blank">rosh-portfolio.vercel.app</a> which features some of my github projects as well as my resume and technical skills.<br/>
 
 This project was built using these technologies.
 

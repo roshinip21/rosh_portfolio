@@ -18,18 +18,18 @@ function Home2() {
               Let Me <span className="purple"> Introduce </span> Myself
             </h1>
             <p className="home-about-body" style={{textAlign:"left"}}>
-            Born in Bengaluru, India - The Silicon Valley of India, passionate about tech & startups solving modern problems. 
+            Born in Bengaluru, India - The Silicon Valley of India, passionate about using tech & contributing to startups that solve modern problems. 
               I completed my <b className="purple"><i>Bachelor's in Computer Science & Engineering </i> </b> & worked full-time for<b className="purple"><i> 2 years in Tata Consultancy Services.</i></b>
               <br />
               <br /> I am currently pursuing my <i>
                 <b className="purple"> Masters in Information Systems  </b></i> at San Diego State University
-               to strengthen my knowledge of Developing Systems, managing Data for Analytics and improving Business IT processes.
+               to strengthen my knowledge of Developing Backend Systems, managing Data for Analytics and improving Business IT processes.
               
               <br />
               <br />
               My field of Interest lies in &nbsp;
               <i>
-                <b className="purple">Database & Warehousing technologies, Data Analytics & Engineering involving DevOps and Cloud services. </b>
+                <b className="purple">Database Systems, Data Science, Analytics & Data Engineering involving Cloud services & Project Management. </b>
                 {" "}
                 <b className="purple">
                 

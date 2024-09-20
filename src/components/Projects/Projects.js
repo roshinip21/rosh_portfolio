@@ -47,7 +47,7 @@ function Projects() {
               isBlog={false}
               title="Snowflake Warehouse & ETL Costing Dashboard"
               description="Developed Power BI Reports to analyze the Warehouse Compute & ETL Costs of Snowflake Usage in AWS Cloud. This dashboard will aid in understanding the product wise costs for customer usage in Snowflake warehouse & relevant analytics services."
-              ghLink="https://github.com/roshinip21/Data-Science-BreastCancer-Classification"
+              ghLink="https://github.com/roshinip21/Snowflake-ETL-Costing-Dashboards"
               demoLink=""
             />
           </Col>

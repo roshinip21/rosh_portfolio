@@ -54,22 +54,14 @@ function Resume() {
                 <Row style={{ justifyContent: "center", position: "relative", marginBottom: "20px" }}>
                     <Button
                         variant="primary"
-                        href="https://drive.google.com/file/d/1kowOLhwfYBLHVUk3wrF5eZr1y0hFYdSD/view?usp=sharing"
+                        href="https://drive.google.com/file/d/1YAjp92qdS2YqdpQm9UXO0qRgFPXu6DHk/view?usp=sharing"
                         target="_blank"
                         style={{ maxWidth: "250px", marginRight: "10px" }}
                     >
                         <AiOutlineDownload />
                         &nbsp;View Resume
                     </Button>
-                    <Button
-                        variant="primary"
-                        href="/Roshini-Padmanabha-Resume.pdf"
-                        target="_blank"
-                        style={{ maxWidth: "250px" }}
-                    >
-                        <AiOutlineDownload />
-                        &nbsp;Download Resume
-                    </Button>
+
                 </Row>
 
                 

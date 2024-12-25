@@ -6,3 +6,20 @@ body {
   -moz-osx-font-smoothing: grayscale;
   background-image: linear-gradient(to left, rgb(27 20 41), rgb(20 15 35));
 }
+
+
+.ftcoo-section {
+	padding: 7em 0;
+	position: relative;
+	@include media-breakpoint-down(sm){
+		padding: 6em 0;
+	}
+}
+
+.ftcoo-no-pb{
+	padding-bottom: 0 !important;
+}
+
+.ftcoo-animate {
+	opacity: 0;
+	visibility: hidden;

@@ -12,7 +12,8 @@ import portfolio from "../../Assets/Projects/portfolio.png";
 import retail from "../../Assets/Projects/retail.jpg";
 import uber from "../../Assets/Projects/uber.jpg";
 import insurance from "../../Assets/Projects/insurance.jpg";
-
+import Detect from "../../Assets/Projects/Detect.jpg";
+import Apple from "../../Assets/Projects/Apple.jpg";
 
 
 function Projects() {
@@ -30,6 +31,17 @@ function Projects() {
           
           
 
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={Detect}
+              isBlog={false}
+              title="Face Recognition & Detection using Python OpenCV"
+              description="The application built with Python, OpenCV, Haar Cascade model and PostgreSQL pgvector allows users to upload images, detects faces using Deep Learning models from OpenCV, and retrieves potential matches from a database by comparing embeddings."
+              ghLink="https://github.com/roshinip21/Face-Recognition"
+              demoLink=""
+            />
+          </Col>
+            
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={linkedin}
@@ -80,6 +92,17 @@ function Projects() {
               description="The CoviSafe Application has features like Covid-19 prediction, vaccine slot booking facility, real-time bed availability of hospitals & doctor appointment scheduling. It was built with a real dataset of patients & tools/languages like Python Flask, JavaScript, API's, Machine Learning techniques, Google Sheets & more. "
               ghLink="https://github.com/roshinip21/Covid-19_Flask_User_Application"
               demoLink="https://docs.google.com/presentation/d/1r4UWxBahBTZlbXkfdVDzsAn-wbC6OhN4hBBgEIJhJ4U/edit?usp=sharing"
+            />
+          </Col>
+
+                 <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={Apple}
+              isBlog={false}
+              title="Apple Macbook Portfolio & iPhone Program Management"
+              description="The MacBook Portfolio Charter exemplifies Apple Inc.'s strategic prowess in combining cutting-edge innovation, environmental sustainability, and customer-centric solutions. This portfolio underscores Apple’s unwavering commitment to delivering exceptional products that cater to professionals, students, and enterprises, while also meeting global sustainability goals."
+              ghLink="https://github.com/roshinip21/Apple-Macbook-Portfolio-Management"
+              demoLink="https://github.com/roshinip21/Apple-iPhone-Project-Management-and-Program-Charter"
             />
           </Col>
 

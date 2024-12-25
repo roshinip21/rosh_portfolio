@@ -92,6 +92,16 @@ function NavBar() {
               </Nav.Link>
             </Nav.Item>
 
+                  <Nav.Item>
+              <Nav.Link
+                as={Link}
+                to="/new"
+                onClick={() => updateExpanded(false)}
+              >
+                <CgFileDocument style={{ marginBottom: "2px" }} /> Experience
+              </Nav.Link>
+            </Nav.Item>
+
 
             <Nav.Item className="fork-btn">
               <Button

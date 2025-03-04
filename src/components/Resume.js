@@ -33,10 +33,14 @@ function Resume() {
                         Skilled in optimizing systems and driving insights for SaaS products </p>
                     
                         <p>
-                            Enterprise-scale data solutions: ETL pipelines, cloud migrations. <br/>
-                            Database management: Snowflake, Oracle, MySQL, AWS services. <br />
-                            BI dashboards: Power BI, Excel.<br />
-                            Programming: Python, SQL, PL/SQL.<br />
+                            - Data Engineering ❄️ : ETL/ELT, Databricks, Kafka, Spark, Flink, Airflow, DBT, AWS Glue, Kinesis.<br/>
+                            - Databases/Warehouses 📦 - Snowflake, AWS (S3, Redshift), Oracle, Azure Data Factory, MySQL, PostgreSQL , BigQuery, DynamoDB, MongoDB.<br/>
+                            - Programming 💻 - Python, SQL, PL/SQL, Shell Scripting, R, UNIX <br/>
+                            - Data Science 🤖 - NumPy, Pandas, Scikit-learn, TensorFlow, Restful API , Seaborn <br/>
+                            - Analytics and Visualization 📊: Tableau, Power BI, Excel, Looker, Plotly, Matplotlib <br/>
+                            - Enterprise Tools 🛠️ : Jira, Confluence, Git, Oracle ERP, Salesforce <br/>
+                            - Soft Skills 🤝 : Stakeholder communication, Agile teamwork, cross-functional collaboration  <br/>
+
                         </p>
                         <p>
 
